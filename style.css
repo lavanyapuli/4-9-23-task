@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    text-align: center;
+    padding:  200px;
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    color: brown;
+    border: 2px solid green;
+    border-radius: 3px;
+    background-color: antiquewhite;
+    font-style: oblique;
+}
+label{
+    color: blue;
+    font font-weight: bold;
+}
+input{
+    background-color:lightgrey;
+   
+}
+a{
+    text-align: right;
+    text-decoration: none;
+   
+}
+center{
+    background-color: lightblue;
+    padding: 100px;
+}
+h2{
+   
+    color: darkblue;
+    border: 1px solid green;
+    border-radius: 1px;
+    background-color: antiquewhite;
+    font-style: oblique;
+font-weight: bold;
+}
+h3{
+    color:darkgreen;
+}
